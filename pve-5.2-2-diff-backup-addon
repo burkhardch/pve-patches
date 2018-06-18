@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Proxmox VE 5.1 - differential backup support, v3"
+echo "Proxmox VE 5.2 - differential backup support, v3"
 echo "Kamil Trzcinski, http://ayufan.eu/, ayufan@ayufan.eu"
 echo ""
 
